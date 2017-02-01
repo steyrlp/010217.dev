@@ -41,9 +41,9 @@ and open the template in the editor.
 
 				<!-- Email input-->
 				<div class="form-group">
-				    <label class="col-md-3 control-label" for="email">Your E-mail</label>
+				    <label class="col-md-3 control-label" for="email">Your password</label>
 				    <div class="col-md-9">
-					<input id="email" name="email" type="text" placeholder="Your email" class="form-control">
+					<input id="pass" name="pass" type="text" placeholder="Password" class="form-control">
 				    </div>
 				</div>
 
