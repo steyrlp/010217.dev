@@ -27,7 +27,7 @@ and open the template in the editor.
 	    <div class="row">
 		<div class="col-md-6 col-md-offset-3">
 		    <div class="well well-sm">
-			<form class="form-horizontal" action="" method="post">
+			<form class="form-horizontal" action="autorisation.php" method="post">
 			    <fieldset>
 				<legend class="text-center">Contact us</legend>
 
