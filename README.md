@@ -11,6 +11,6 @@
 
 ##Скриншоты
 
-<img src=""/>
+<img src="http://i.piccy.info/i9/65cbc9b6952d223a86898948df629cdf/1485956052/34957/1114436/1_800.jpg" alt="Piccy.info - Free Image Hosting" border="0" />
 <img src=""/>
 <img src=""/>
